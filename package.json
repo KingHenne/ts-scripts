@@ -1,0 +1,21 @@
+{
+  "name": "ts-scripts",
+  "version": "0.0.0-development",
+  "description": "Common scripts for TypeScript projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "git+https://github.com/KingHenne/ts-scripts.git",
+  "keywords": [
+    "typescript",
+    "tsconfig",
+    "tslint"
+  ],
+  "author": "Hendrik Liebau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KingHenne/ts-scripts/issues"
+  },
+  "homepage": "https://github.com/KingHenne/ts-scripts#readme"
+}
